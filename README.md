@@ -17,7 +17,8 @@ You got it.
 
 🖼️ Screenshot
 
-(Place your awesome screenshot below this line 👇)
+<img width="554" height="799" alt="image" src="https://github.com/user-attachments/assets/3411b56d-3f51-4cd3-a299-0e4c9c4c5f91" />
+
 
 🌟 Features
 
